@@ -1,2 +1,2 @@
 # Machine_learning
-Repo of Machine Learning with Python project
+Repo for Machine Learning with Python project
